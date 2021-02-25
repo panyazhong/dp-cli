@@ -1,0 +1,27 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "dp-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dp": "bin/dp.js"
+  },
+  "keywords": [
+    "dp-cli"
+  ],
+  "author": "dapan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.1.0",
+    "execa": "^5.0.0",
+    "inquirer": "^7.3.3"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
