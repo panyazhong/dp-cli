@@ -18,10 +18,10 @@
     "chalk": "^4.1.0",
     "commander": "^7.1.0",
     "execa": "^5.0.0",
+    "globby": "^11.0.2",
     "inquirer": "^7.3.3"
   },
   "directories": {
     "lib": "lib"
-  },
-  "devDependencies": {}
+  }
 }
